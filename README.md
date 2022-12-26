@@ -10,6 +10,6 @@
 
 ![2d8ee815146390d567706f2c7b5c2916](https://user-images.githubusercontent.com/94923446/209543826-2e0f990d-bc71-4182-87d8-fdfe2f21293a.gif)
 
-![CODECHEF](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/<sarrveshm>&prefix=<1392%20>&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)
+![CODECHEF](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/<sarrveshm>&prefix=<1392>&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)
 
 
